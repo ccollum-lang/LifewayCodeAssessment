@@ -2,7 +2,8 @@
 
 ## Table of Contents:
 * Prompt
-* How to Install and Run the Project
+* My Approach
+* How to Use the Project
 
 ### Prompt
 1. Create a REST service with a single endpoint that accepts a json message with two
